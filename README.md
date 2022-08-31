@@ -1,2 +1,4 @@
-# 4883-PT-Harrison
-Andrew Harrison M20251488 Programming Techniques
+## Andrew Harrison
+### Repo: 4883-PT-Harrison
+### Email: AndrewHarrisonC@gmail.com
+#### Image: 
